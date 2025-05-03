@@ -6,6 +6,10 @@ Each time you run the script, a unique landscape is generated and saved as an Op
 
 ## 📸 Example Output
 
+<img src="assets/terrain-1.png" alt="Terrain Preview" width="450"/>
+<img src="assets/terrain-2.png" alt="Terrain Preview" width="450"/>
+<img src="assets/terrain-3.png" alt="Terrain Preview" width="450"/>
+<img src="assets/terrain-4.png" alt="Terrain Preview" width="450"/>
 
 ## 🧰 Features
 
