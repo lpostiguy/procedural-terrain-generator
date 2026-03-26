@@ -1,6 +1,6 @@
 # 🌍 Procedural Terrain Generator for OpenSCAD
 
-This project is a **procedural 3D terrain generator** written in Python that creates randomized landscapes using **OpenSCAD**. It simulates islands, trees (pine and palm), bushes, rocks, and docks—all generated with natural-looking variation and logic based on elevation and randomness.
+This project is a **procedural 3D terrain generator** written in Python that creates randomized landscapes using **OpenSCAD**. It simulates islands, trees (pine and palm), bushes, rocks, and docks, all generated with natural-looking variation and logic based on elevation and randomness.
 
 Each time you run the script, a unique landscape is generated and saved as an OpenSCAD file (`generated_landscape.scad`) which can be previewed, rendered, and exported to STL for 3D printing or modeling.
 
